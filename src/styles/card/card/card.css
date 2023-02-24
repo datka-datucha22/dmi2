@@ -1,0 +1,10 @@
+.card {
+  width: 40%;
+  height: 500px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  border-radius: 30px 35px 20px 20px;
+  flex-direction: column;
+  background-color: #FFFFFF;
+}/*# sourceMappingURL=card.css.map */
