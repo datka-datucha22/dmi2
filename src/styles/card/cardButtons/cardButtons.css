@@ -1,0 +1,33 @@
+.cardButtons {
+  display: flex;
+  flex-direction: column;
+  padding: 3% 0;
+  width: 70%;
+}
+
+.button1 {
+  background-color: #382AE1;
+  color: white;
+  border: none;
+  width: 100%;
+  height: 3rem;
+  border-radius: 11px;
+  cursor: pointer;
+}
+.button1:hover {
+  background-color: rgba(57, 42, 225, 0.7529411765);
+}
+
+.button2 {
+  background-color: transparent;
+  color: #717FA6;
+  border: none;
+  width: 100%;
+  height: 3rem;
+  border-radius: 11px;
+  margin-top: 1rem;
+  cursor: pointer;
+}
+.button2:hover {
+  color: #6a7592;
+}/*# sourceMappingURL=cardButtons.css.map */
